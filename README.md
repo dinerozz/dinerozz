@@ -2,10 +2,6 @@
 #### I'am a student
 ![I'am a student of AUPET](https://i.pinimg.com/736x/ae/6b/39/ae6b391b0ac6cb36d842c3790807a62e.jpg)
 
-Now i'm studying at the university. My specialty is information security systems. I am currently studying front-end development, in particular JavaScript and a little PHP.
-
-- 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning JavaScript, PHP 
 - 📫 How to reach me: Telegram: @dinero_zz 
 
 
