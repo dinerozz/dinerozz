@@ -4,8 +4,6 @@
 
 Now i'm studying at the university. My specialty is information security systems. I am currently studying front-end development, in particular JavaScript and a little PHP.
 
-Skills: HTML / CSS / JS / MySql / PHP / QlikSense
-
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning JavaScript, PHP 
 - 📫 How to reach me: Telegram: @dinero_zz 
